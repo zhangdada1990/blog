@@ -1,6 +1,6 @@
 // 配置图标URL
 const IMAGE_URL = {
-    'arrow-up-1': 'https://doc.zx588.top/up.png',
+    'arrow-up-1': 'https://zhangdada1990.github.io/blog/up.png',
     'arrow-up-2': 'https://unpkg.com/@zhg-x/resources@1.0.0/assets/images/arrow-up-2.png',
 };
 const CONFIG = {
@@ -94,3 +94,4 @@ if ($docsify.plugins && Array.isArray($docsify.plugins)) {
 } else {
     $docsify.plugins = [pluginFunction];
 }
+
