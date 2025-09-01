@@ -6,7 +6,7 @@ URL地址：
 
 二维码扫描：
 
- <img src="[url](https://github.com/zhangdada1990/blog/blob/main/files/2025/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%9C%B0%E5%9D%80.png?raw=true)" width="150px" /> 
+ <img src="https://github.com/zhangdada1990/blog/blob/main/files/2025/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%9C%B0%E5%9D%80.png?raw=true" width="150px" /> 
 
 ### 框架
 
