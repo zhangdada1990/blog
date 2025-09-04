@@ -37,3 +37,11 @@ URL地址：
 2. Email:zhangxiao19900321@gmail.com
 
 3. TG:[@zx_0321](https://t.me/zx_0321)
+
+### 说明
+
+Copyright ©  zx588.top
+
+内容举报：[违法和不良信息举报平台](https://www.12377.cn/)
+
+备案编号：[鄂ICP备2021020576号](https://beian.miit.gov.cn/)
